@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "648e460f4ffb7448",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8c9e23c0350c886",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11cfa8543c78c9df",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0bea3b559bb0383",
+    "type": "split",
+    "children": [
+      {
+        "id": "e52542b71cf630d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98b3f8a83d1b295f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f771a12e829ae6b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "579ae5d037e2595f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f2fcc04cc4630a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c11338efe4e8839d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a587ef63d4790ddf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5b8e7b10ba580067",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f69342768079b1d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "75daec1c4a5bcbaf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "webpage-html-export:Export Vault to HTML": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
+    }
+  },
+  "active": "11cfa8543c78c9df",
+  "lastOpenFiles": [
+    "index.md",
+    "Elettrostatica/Fondamenti di elettrostatica.md",
+    "old/elettrostatica/Tensione flusso e corrente.md",
+    "data/Pasted image 20240821162658.png",
+    "data/Pasted image 20240822123301.png",
+    "data",
+    "data/Pasted image 20240822123216.png",
+    "Introduzione al corso.md",
+    "old/elettrostatica/Carica e campo.md",
+    "Elettrostatica",
+    "old",
+    "old/circuiti elettrici/Connessione di bipoli.md",
+    "old/circuiti elettrici/Leggi per i circuiti.md",
+    "old/temp/2024-02-20.md",
+    "old/circuiti elettrici/Risoluzione di circuiti.md",
+    "old/circuiti elettrici/Teoria dei circuiti.md",
+    "old/circuiti elettrici/Bipoli notevoli.md",
+    "old/data/Pasted image 20240314112236.png",
+    "old/data/Pasted image 20240314111740.png",
+    "old/data/Pasted image 20240314105901.png",
+    "old/temp/2024-03-14.md",
+    "old/temp/2024-03-08.md",
+    "old/circuiti elettrici/Circuiti equivalenti.md",
+    "old/data/Pasted image 20240312103737.png",
+    "old/data/Pasted image 20240312093945.png",
+    "old/temp/2024-03-12.md",
+    "old/temp/2024-03-07.md",
+    "old/data/Pasted image 20240308143810.png",
+    "old/data/Pasted image 20240308143632.png",
+    "old/circuiti elettrici/Classificazione dei bipoli.md",
+    "old/temp/2024-03-01.md",
+    "old/circuiti elettrici/Potenza.md",
+    "old/temp/2024-02-29.md",
+    "old/temp/2024-02-27.md",
+    "old/temp/2024-02-23.md",
+    "old/temp/2024-02-22.md",
+    "old/data",
+    "old/introduzione/Vettori.md",
+    "old/temp",
+    "old/elettromagnetismo",
+    "old/trifase",
+    "old/fasori",
+    "old/circuiti elettrici",
+    "old/elettrostatica",
+    "Welcome.md"
+  ]
+}

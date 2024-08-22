@@ -2,6 +2,9 @@ Il corso di Elettrotecnica inizia con un'introduzione ai circuiti elettrici, il 
 
 1. [[Introduzione al corso]]
 2. [[Fondamenti di elettrostatica]]
+	1. [[Potenziale e tensione elettrica]]
+	2. [[Flusso di un campo vettoriale]]
+	3. [[Materiale conduttore]]
 
 
 

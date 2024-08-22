@@ -24,8 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Elettrostatica/Materiale conduttore.md",
+      "timestamp": 1724341842172
+    },
+    {
+      "filepath": "old/elettrostatica/Tensione flusso e corrente.md",
+      "timestamp": 1724341837898
+    },
+    {
       "filepath": "index.md",
-      "timestamp": 1724323589641
+      "timestamp": 1724340594558
+    },
+    {
+      "filepath": "Elettrostatica/Flusso di un campo vettoriale.md",
+      "timestamp": 1724338744091
+    },
+    {
+      "filepath": "Elettrostatica/Fondamenti di elettrostatica.md",
+      "timestamp": 1724338743397
     }
   ],
   "starredFileStore": [],

@@ -1,7 +1,7 @@
 {
   "settingsVersion": "1.8.1-2b",
   "makeOfflineCompatible": true,
-  "inlineAssets": false,
+  "inlineAssets": true,
   "includePluginCSS": [],
   "includeSvelteCSS": true,
   "titleProperty": "title",

@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a8c9e23c0350c886",
+        "id": "005ef8b5e4806989",
         "type": "tabs",
         "children": [
           {
-            "id": "11cfa8543c78c9df",
+            "id": "053f0d2d6cfe35aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elettrostatica/Fondamenti di elettrostatica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b83a99a7d551b60a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "old/elettrostatica/Tensione flusso e corrente.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elettrostatica/Flusso di un campo vettoriale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elettrostatica/Flusso di un campo vettoriale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Elettrostatica/Flusso di un campo vettoriale.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,52 +141,15 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "floating": {
-    "id": "9f8481181e5a7bd8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d20f9698e71cfceb",
-        "type": "window",
-        "children": [
-          {
-            "id": "ca430928d53bc16f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "87efcecca58d67f4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Elettrostatica/Flusso di un campo vettoriale.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1920,
-        "height": 1026,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "87efcecca58d67f4",
+  "active": "053f0d2d6cfe35aa",
   "lastOpenFiles": [
+    "Elettrostatica/Flusso di un campo vettoriale.md",
     "Elettrostatica/Materiale conduttore.md",
     "Elettrostatica/Fondamenti di elettrostatica.md",
     "old/elettrostatica/Tensione flusso e corrente.md",
     "data/Pasted image 20240822173135.png",
     "index.md",
     "data/Pasted image 20240822171354.png",
-    "Elettrostatica/Flusso di un campo vettoriale.md",
     "data/Pasted image 20240822170126.png",
     "data/Pasted image 20240822164548.png",
     "data/Pasted image 20240822135405.png",

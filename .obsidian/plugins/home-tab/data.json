@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Teoria dei circuiti/Risoluzione di circuiti.md",
-      "timestamp": 1724406505777
-    },
-    {
-      "filepath": "Teoria dei circuiti/Teoria dei circuiti.md",
-      "timestamp": 1724406501694
-    },
-    {
-      "filepath": "old/circuiti elettrici/Leggi per i circuiti.md",
-      "timestamp": 1724406485042
-    },
-    {
       "filepath": "index.md",
-      "timestamp": 1724406474077
+      "timestamp": 1724428553628
     },
     {
-      "filepath": "old/circuiti elettrici/Risoluzione di circuiti.md",
-      "timestamp": 1724405000535
+      "filepath": "Teoria dei circuiti/Bipoli.md",
+      "timestamp": 1724426951211
+    },
+    {
+      "filepath": "old/circuiti elettrici/Bipoli notevoli.md",
+      "timestamp": 1724426940339
+    },
+    {
+      "filepath": "old/circuiti elettrici/Classificazione dei bipoli.md",
+      "timestamp": 1724426939545
+    },
+    {
+      "filepath": "Teoria dei circuiti/N-poli.md",
+      "timestamp": 1724426425264
     }
   ],
   "starredFileStore": [],

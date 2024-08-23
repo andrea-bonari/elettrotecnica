@@ -23,3 +23,4 @@
 >Consideriamo il circuito:
 >![[Pasted image 20240229112221.png]]
 >Possiamo dire che: $$p_{a}^{R}=V_{R}i_{r}$$$$p_{e}^{R}=V_{E}i_{E}=V_{R}i_{R}=p_{a}^{R}$$
+

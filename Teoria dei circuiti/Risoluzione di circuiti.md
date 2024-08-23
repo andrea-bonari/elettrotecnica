@@ -35,7 +35,7 @@ V_{30}=u_{3}-u_{0}=u_{3}
 >Risolvere un circuito vuol dire ricavare $2l$ incognite, dove $l$ corrisponde al numero di lati. Per farlo devo scrivere un sistema di $2l$ equazioni lineari composto da $l$ equazioni costitutive e $l$ equazioni topologiche (*KVL* e *KCL*) ($n$ è il numero di nodi): $$\begin{cases}
 l&\text{ equazioni costitutive} \\
 n-1&KCL \\
-l-n+1&KVL-II
+l-n+1&KVL-I
 \end{cases}\qquad\text{linearmente indipendenti}$$
 
 >[!tip] Matrice di incidenza
@@ -68,3 +68,26 @@ Dove $\overrightarrow{i}$ è il vettore contenente le $l$ correnti di lato. Le e
 -i_{b}+i_{c}-i_{d}=0 \\
 i_{d}-i_{e}=0
 \end{cases}$$
+
+Calcoliamo adesso le $l$ *KVL-I* facendo: $$A^{T}\space\overrightarrow{u}=\overrightarrow{v}$$dove $\overrightarrow{v}$ è il vettore contenente le tensioni di lato, e $\overrightarrow{u}$ è il vettore contenente i potenziali di nodo. L'equazioni saranno linearmente indipendenti.
+
+>[!example]
+>Ridisegnando il grafo orientato rispetto alle tensioni in convenzione normale:
+>![[Pasted image 20240823161423.png]]
+>
+>Scegliamo come nodo di riferimento il corrispondente della riga rimossa in $A_{a}$. E dai potenziali di tensione ottenuti da quel nodo creiamo il vettore $\overrightarrow{u}$. Quindi:
+>$$A^{T}\space\overrightarrow{u}=\overrightarrow{v}\iff\begin{cases}
+-u_{1}= V_{01} \\
+u_{1}-u_{2}=V_{12} \\
+u_{2}=V_{20} \\
+-u_{2}+u_{3}=V_{32} \\
+-u_{3}=V_{03}
+\end{cases}$$
+
+>[!tip] Equazioni Tableau
+>Sono le equazioni topologiche linearmente indipendenti sufficienti per risolvere un circuito. $$\begin{cases}
+A\overrightarrow{i}=\overrightarrow{0}&n-1&\text{KCL} \\
+A^{T}\space\overrightarrow{u}-\overrightarrow{v}=\overrightarrow{0}&l&\text{KVL-I}
+\end{cases}$$In queste equazioni avremo $2l+n-1$ incognite ($l$ correnti, $l$ tensioni e $n-1$ potenziali di nodo). In totale avremo $l+n-1$ equazioni topologiche, che sommate alle $l$ equazioni costitutive ci permetteranno di trovare le $2l+n-1$ incognite.
+
+

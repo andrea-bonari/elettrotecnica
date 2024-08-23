@@ -40,5 +40,22 @@ In generale un $n$-polo necessita di $n-1$ tensioni, $n-1$ correnti e $n-1$ equa
 >Non abbiamo un nodo di riferimento.
 >![[Pasted image 20240823102219.png]]
 
+Esistono delle convenzioni applicabili solo al grafo di un componente a stella:
+- Convenzione degli utilizzatori
+- Convenzione dei generatori
 
+>[!tip] Convenzione degli utilizzatore
+>A ciascun lato associato a un componente, $v$ e $i$ sono prese in verso opposto:
+>![[Pasted image 20240823103629.png]]
 
+>[!tip] Convenzione dei generatori
+>A ciascun lato associato a un componente, $v$ e $i$ sono prese con verso concorde:
+>![[Pasted image 20240823103723.png]]
+
+La scelta della convenzione da utilizzare è arbitraria, tuttavia è necessario mantenere coerenza.
+
+>[!example]
+>![[Pasted image 20240823103912.png]]
+>$$V=Ri\qquad V'=-Ri'$$
+
+La scelta di una determinata convenzione non deve necessariamente essere applicata all'intero circuito.

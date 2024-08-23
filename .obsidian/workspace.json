@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria dei circuiti/Teoria dei circuiti.md",
+                "file": "old/circuiti elettrici/Bipoli notevoli.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria dei circuiti/Teoria dei circuiti.md",
+                "file": "old/circuiti elettrici/Bipoli notevoli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria dei circuiti/Teoria dei circuiti.md",
+                "file": "old/circuiti elettrici/Bipoli notevoli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoria dei circuiti/Teoria dei circuiti.md"
+                "file": "old/circuiti elettrici/Bipoli notevoli.md"
               }
             }
           }
@@ -163,16 +163,22 @@
   },
   "active": "32e7c5c1186d346d",
   "lastOpenFiles": [
+    "old/circuiti elettrici/Circuiti equivalenti.md",
+    "old/circuiti elettrici/Classificazione dei bipoli.md",
+    "old/circuiti elettrici/Connessione di bipoli.md",
+    "old/circuiti elettrici/Leggi per i circuiti.md",
+    "old/circuiti elettrici/Potenza.md",
+    "old/circuiti elettrici/Risoluzione di circuiti.md",
+    "old/circuiti elettrici/Teoria dei circuiti.md",
+    "index.md",
+    "Teoria dei circuiti/Teoria dei circuiti.md",
     "data/Pasted image 20240823102219.png",
     "data/Pasted image 20240823102055.png",
     "data/Pasted image 20240823102013.png",
     "data/Pasted image 20240823101909.png",
     "data/Pasted image 20240823101524.png",
     "Elettrostatica/Flusso di un campo vettoriale.md",
-    "Teoria dei circuiti/Teoria dei circuiti.md",
-    "old/circuiti elettrici/Teoria dei circuiti.md",
     "data/Pasted image 20240822191350.png",
-    "index.md",
     "old/elettrostatica/Tensione flusso e corrente.md",
     "old/elettrostatica/Carica e campo.md",
     "old/temp/2024-02-22.md",
@@ -194,15 +200,9 @@
     "Elettrostatica/Potenziale e tensione elettrica.md",
     "Elettrostatica/Materiale conduttore.md",
     "Elettrostatica/Fondamenti di elettrostatica.md",
-    "data/Pasted image 20240822173135.png",
-    "Introduzione al corso.md",
     "data",
     "Elettrostatica",
     "old",
-    "old/circuiti elettrici/Connessione di bipoli.md",
-    "old/circuiti elettrici/Leggi per i circuiti.md",
-    "old/circuiti elettrici/Risoluzione di circuiti.md",
-    "old/circuiti elettrici/Bipoli notevoli.md",
     "old/data",
     "old/temp",
     "old/elettromagnetismo",

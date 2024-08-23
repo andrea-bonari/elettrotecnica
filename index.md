@@ -7,7 +7,6 @@ Il corso di Elettrotecnica inizia con un'introduzione ai circuiti elettrici, il 
 	3. [[Materiale conduttore]]
 	4. [[Principio di conservazione della carica]]
 3. [[Teoria dei circuiti/Teoria dei circuiti|Teoria dei circuiti]]
-4. 
 
 
 

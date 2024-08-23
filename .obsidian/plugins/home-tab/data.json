@@ -24,16 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Teoria dei circuiti/Teoria dei circuiti.md",
-      "timestamp": 1724399500304
+      "filepath": "old/circuiti elettrici/Bipoli notevoli.md",
+      "timestamp": 1724401590021
     },
     {
-      "filepath": "Elettrostatica/Flusso di un campo vettoriale.md",
-      "timestamp": 1724396227636
+      "filepath": "old/circuiti elettrici/Circuiti equivalenti.md",
+      "timestamp": 1724401582737
     },
     {
-      "filepath": "old/circuiti elettrici/Teoria dei circuiti.md",
-      "timestamp": 1724352232720
+      "filepath": "old/circuiti elettrici/Classificazione dei bipoli.md",
+      "timestamp": 1724401574150
+    },
+    {
+      "filepath": "old/circuiti elettrici/Connessione di bipoli.md",
+      "timestamp": 1724401564848
+    },
+    {
+      "filepath": "old/circuiti elettrici/Leggi per i circuiti.md",
+      "timestamp": 1724401540468
     }
   ],
   "starredFileStore": [],

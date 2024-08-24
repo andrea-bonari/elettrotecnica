@@ -25,23 +25,23 @@
   "recentFilesStore": [
     {
       "filepath": "index.md",
-      "timestamp": 1724428553628
+      "timestamp": 1724486411718
     },
     {
-      "filepath": "Teoria dei circuiti/Bipoli.md",
-      "timestamp": 1724426951211
+      "filepath": "Introduzione al corso.md",
+      "timestamp": 1724486411246
     },
     {
-      "filepath": "old/circuiti elettrici/Bipoli notevoli.md",
-      "timestamp": 1724426940339
+      "filepath": "Elettrostatica/Fondamenti di elettrostatica.md",
+      "timestamp": 1724486411073
     },
     {
-      "filepath": "old/circuiti elettrici/Classificazione dei bipoli.md",
-      "timestamp": 1724426939545
+      "filepath": "Elettrostatica/Potenziale e tensione elettrica.md",
+      "timestamp": 1724486410759
     },
     {
-      "filepath": "Teoria dei circuiti/N-poli.md",
-      "timestamp": 1724426425264
+      "filepath": "Elettrostatica/Flusso di un campo vettoriale.md",
+      "timestamp": 1724486410500
     }
   ],
   "starredFileStore": [],

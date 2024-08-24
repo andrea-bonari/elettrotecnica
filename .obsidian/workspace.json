@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Teoria dei circuiti/Risoluzione di circuiti.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Teoria dei circuiti/Risoluzione di circuiti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Teoria dei circuiti/Risoluzione di circuiti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Teoria dei circuiti/Risoluzione di circuiti.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "99ea1690497f187c",
   "lastOpenFiles": [
+    "index.md",
     "Introduzione al corso.md",
     "Elettrostatica/Fondamenti di elettrostatica.md",
     "Elettrostatica/Potenziale e tensione elettrica.md",
@@ -162,7 +163,6 @@
     "Teoria dei circuiti/Potenza ed energia elettrica.md",
     "Teoria dei circuiti/N-poli.md",
     "Teoria dei circuiti/Bipoli.md",
-    "index.md",
     "old/circuiti elettrici/Bipoli notevoli.md",
     "data/Pasted image 20240823175125.png",
     "data/Pasted image 20240823174724.png",

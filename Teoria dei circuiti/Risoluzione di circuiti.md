@@ -89,5 +89,3 @@ u_{2}=V_{20} \\
 A\overrightarrow{i}=\overrightarrow{0}&n-1&\text{KCL} \\
 A^{T}\space\overrightarrow{u}-\overrightarrow{v}=\overrightarrow{0}&l&\text{KVL-I}
 \end{cases}$$In queste equazioni avremo $2l+n-1$ incognite ($l$ correnti, $l$ tensioni e $n-1$ potenziali di nodo). In totale avremo $l+n-1$ equazioni topologiche, che sommate alle $l$ equazioni costitutive ci permetteranno di trovare le $2l+n-1$ incognite.
-
-

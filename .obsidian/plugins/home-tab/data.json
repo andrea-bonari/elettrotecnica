@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Teoria dei circuiti/Risoluzione di circuiti.md",
+      "timestamp": 1724487495302
+    },
+    {
       "filepath": "index.md",
       "timestamp": 1724486411718
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "Elettrostatica/Potenziale e tensione elettrica.md",
       "timestamp": 1724486410759
-    },
-    {
-      "filepath": "Elettrostatica/Flusso di un campo vettoriale.md",
-      "timestamp": 1724486410500
     }
   ],
   "starredFileStore": [],

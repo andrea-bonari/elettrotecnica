@@ -48,6 +48,7 @@
   "filesToExport": [
     [
       "Elettrostatica",
+      "Teoria dei circuiti",
       "index.md",
       "Introduzione al corso.md"
     ]

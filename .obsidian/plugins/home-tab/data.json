@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Teoria dei circuiti/Risoluzione di circuiti.md",
-      "timestamp": 1724487495302
+      "filepath": "Teoria dei circuiti/Bipoli.md",
+      "timestamp": 1724489913733
     },
     {
-      "filepath": "index.md",
-      "timestamp": 1724486411718
+      "filepath": "Teoria dei circuiti/N-poli.md",
+      "timestamp": 1724489913375
     },
     {
-      "filepath": "Introduzione al corso.md",
-      "timestamp": 1724486411246
+      "filepath": "Teoria dei circuiti/Potenza ed energia elettrica.md",
+      "timestamp": 1724489912502
     },
     {
-      "filepath": "Elettrostatica/Fondamenti di elettrostatica.md",
-      "timestamp": 1724486411073
+      "filepath": "old/circuiti elettrici/Circuiti equivalenti.md",
+      "timestamp": 1724489902959
     },
     {
-      "filepath": "Elettrostatica/Potenziale e tensione elettrica.md",
-      "timestamp": 1724486410759
+      "filepath": "old/circuiti elettrici/Classificazione dei bipoli.md",
+      "timestamp": 1724489899678
     }
   ],
   "starredFileStore": [],

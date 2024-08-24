@@ -16,3 +16,15 @@ Definiamo, in convenzione normale, che la potenza assorbita e erogata da un bipo
 $$p_{a}(t)=v(t)i(t)\qquad p_{e}(t)=-v(t)i(t)$$
 Viceversa, in convenzione dei generatori, la potenza assorbita e erogata da un bipolo è:
 $$p_{a}(t)=-v(t)i(t)\qquad p_{e}(t)=v(t)i(t)$$
+
+### Potenza istantanea di un n-polo
+>[!note]
+>Avendo un generico $n$-polo:
+>![[Pasted image 20240824102606.png]]
+>
+>Supponendo di:
+>- usare la rappresentazione a stella con $0$ nodo di riferimento
+>- usare la convenzione normale
+>
+>Definiamo la potenza assorbita dall'$n$-polo come: $$p_{a}(t)= \sum\limits_{k=1}^{n-1} v_{k}(t)i_{k}(t)$$
+

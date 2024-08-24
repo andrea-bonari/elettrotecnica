@@ -87,3 +87,7 @@
 >| $$\text{Base tensione}$$         | $$\checkmark$$                                                                                           |
 >| $$\text{Base corrente}$$         | $$\times$$                                                                                           |
 >| $$\text{Potenza}$$               | $$p_{a}= V(t)a(t)\in\mathbb{R}$$                                                                   |
+
+### Principio di equivalenza
+>[!note]
+>Due bipoli si dicono equivalenti se le loro equazioni costitutive coincidono.

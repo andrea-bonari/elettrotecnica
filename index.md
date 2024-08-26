@@ -9,8 +9,11 @@ Il corso di Elettrotecnica inizia con un'introduzione ai circuiti elettrici, il 
 3. [[Teoria dei circuiti/Teoria dei circuiti|Teoria dei circuiti]]
 	1. [[Teoria dei circuiti/Risoluzione di circuiti|Risoluzione di circuiti]]
 	2. [[Potenza ed energia elettrica]]
-	3. [[Bipoli]]
-	4. [[N-poli]]
+	3. [[N-poli]]
+	4. [[Bipoli]]
+		1. [[Teoria dei circuiti/Bipoli/Connessione di bipoli|Connessione di bipoli]]
+	5. [[Circuiti equivalenti di Thevenin e Norton]]
+
 
 
 

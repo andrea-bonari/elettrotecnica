@@ -22,28 +22,7 @@
   "showShortcuts": true,
   "markdownOnly": true,
   "unresolvedLinks": false,
-  "recentFilesStore": [
-    {
-      "filepath": "Teoria dei circuiti/Bipoli.md",
-      "timestamp": 1724489913733
-    },
-    {
-      "filepath": "Teoria dei circuiti/N-poli.md",
-      "timestamp": 1724489913375
-    },
-    {
-      "filepath": "Teoria dei circuiti/Potenza ed energia elettrica.md",
-      "timestamp": 1724489912502
-    },
-    {
-      "filepath": "old/circuiti elettrici/Circuiti equivalenti.md",
-      "timestamp": 1724489902959
-    },
-    {
-      "filepath": "old/circuiti elettrici/Classificazione dei bipoli.md",
-      "timestamp": 1724489899678
-    }
-  ],
+  "recentFilesStore": [],
   "starredFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,

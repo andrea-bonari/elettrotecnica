@@ -22,7 +22,12 @@
   "showShortcuts": true,
   "markdownOnly": true,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "index.md",
+      "timestamp": 1724684517316
+    }
+  ],
   "starredFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,

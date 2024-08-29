@@ -6,14 +6,12 @@ Il corso di Elettrotecnica inizia con un'introduzione ai circuiti elettrici, il 
 	2. [[Flusso di un campo vettoriale]]
 	3. [[Materiale conduttore]]
 	4. [[Principio di conservazione della carica]]
-3. [[Teoria dei circuiti/Teoria dei circuiti|Teoria dei circuiti]]
-	1. [[Teoria dei circuiti/Risoluzione di circuiti|Risoluzione di circuiti]]
+3. [[Teoria dei circuiti]]
+	1. [[Risoluzione di circuiti]]
 	2. [[Potenza ed energia elettrica]]
 	3. [[N-poli]]
 	4. [[Bipoli]]
-		1. [[Teoria dei circuiti/Bipoli/Connessione di bipoli|Connessione di bipoli]]
+		1. [[Connessione di bipoli]]
 	5. [[Circuiti equivalenti di Thevenin e Norton]]
-
-
-
-
+	6. [[Generatori Pilotati]]
+	7. [[Teorema di esistenza e unicità della soluzione]]

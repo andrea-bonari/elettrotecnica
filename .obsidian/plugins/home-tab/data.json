@@ -24,8 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
+      "timestamp": 1724853917692
+    },
+    {
       "filepath": "index.md",
-      "timestamp": 1724684517316
+      "timestamp": 1724853906854
+    },
+    {
+      "filepath": "Teoria dei circuiti/Generatori pilotati.md",
+      "timestamp": 1724853905339
+    },
+    {
+      "filepath": "Teoria dei circuiti/Bipoli/Connessione di bipoli.md",
+      "timestamp": 1724853777284
     }
   ],
   "starredFileStore": [],

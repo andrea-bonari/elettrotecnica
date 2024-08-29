@@ -11,11 +11,28 @@
             "id": "9699b14e4591f6e8",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33d0b9142d4726a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md"
+              }
             }
           }
         ]
@@ -141,9 +162,16 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "9699b14e4591f6e8",
+  "active": "33d0b9142d4726a7",
   "lastOpenFiles": [
     "index.md",
+    "Teoria dei circuiti/Generatori pilotati.md",
+    "Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
+    "Teoria dei circuiti/Bipoli/Connessione di bipoli.md",
+    "data/Pasted image 20240827114235.png",
+    "data/Pasted image 20240827114036.png",
+    "data/Pasted image 20240827113854.png",
+    "data/Pasted image 20240827112904.png",
     "Introduzione al corso.md",
     "Elettrostatica/Fondamenti di elettrostatica.md",
     "Elettrostatica/Potenziale e tensione elettrica.md",
@@ -155,7 +183,6 @@
     "Teoria dei circuiti/Potenza ed energia elettrica.md",
     "Teoria dei circuiti/N-poli.md",
     "Teoria dei circuiti/Bipoli/Bipoli.md",
-    "Teoria dei circuiti/Bipoli/Connessione di bipoli.md",
     "Teoria dei circuiti/Circuiti equivalenti di Thevenin e Norton.md",
     "Campagna.md",
     "data/Pasted image 20240824171139.png",
@@ -168,18 +195,12 @@
     "data/Pasted image 20240824170611.png",
     "data/Pasted image 20240824170447.png",
     "data/Pasted image 20240824164627.png",
-    "data/Pasted image 20240824164352.png",
-    "data/Pasted image 20240824163441.png",
-    "data/Pasted image 20240824162900.png",
-    "data/Pasted image 20240824162154.png",
     "Teoria dei circuiti/Bipoli",
     "old/circuiti elettrici/Leggi per i circuiti.md",
     "old/circuiti elettrici/Risoluzione di circuiti.md",
     "old/circuiti elettrici/Teoria dei circuiti.md",
     "old/circuiti elettrici/Bipoli notevoli.md",
     "old/elettrostatica/Tensione flusso e corrente.md",
-    "old/elettrostatica/Carica e campo.md",
-    "old/temp/2024-02-22.md",
     "Teoria dei circuiti",
     "data",
     "Elettrostatica",

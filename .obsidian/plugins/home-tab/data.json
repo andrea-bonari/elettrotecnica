@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
-      "timestamp": 1724853917692
+      "filepath": "Teoria dei circuiti/Principio di sovrapposizione degli effetti.md",
+      "timestamp": 1724933084466
     },
     {
       "filepath": "index.md",
-      "timestamp": 1724853906854
+      "timestamp": 1724932996337
+    },
+    {
+      "filepath": "Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
+      "timestamp": 1724915722564
     },
     {
       "filepath": "Teoria dei circuiti/Generatori pilotati.md",

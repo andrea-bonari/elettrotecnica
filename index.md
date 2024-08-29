@@ -15,3 +15,4 @@ Il corso di Elettrotecnica inizia con un'introduzione ai circuiti elettrici, il 
 	5. [[Circuiti equivalenti di Thevenin e Norton]]
 	6. [[Generatori Pilotati]]
 	7. [[Teorema di esistenza e unicità della soluzione]]
+	8. [[Principio di sovrapposizione degli effetti]]

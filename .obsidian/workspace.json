@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
+                "file": "Teoria dei circuiti/Principio di sovrapposizione degli effetti.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
+                "file": "Teoria dei circuiti/Principio di sovrapposizione degli effetti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
+                "file": "Teoria dei circuiti/Principio di sovrapposizione degli effetti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md"
+                "file": "Teoria dei circuiti/Principio di sovrapposizione degli effetti.md"
               }
             }
           }
@@ -164,9 +164,12 @@
   },
   "active": "33d0b9142d4726a7",
   "lastOpenFiles": [
+    "data/Pasted image 20240829141112.png",
     "index.md",
-    "Teoria dei circuiti/Generatori pilotati.md",
+    "Teoria dei circuiti/Principio di sovrapposizione degli effetti.md",
     "Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
+    "data/Pasted image 20240829092700.png",
+    "Teoria dei circuiti/Generatori pilotati.md",
     "Teoria dei circuiti/Bipoli/Connessione di bipoli.md",
     "data/Pasted image 20240827114235.png",
     "data/Pasted image 20240827114036.png",
@@ -194,13 +197,10 @@
     "old/circuiti elettrici/Connessione di bipoli.md",
     "data/Pasted image 20240824170611.png",
     "data/Pasted image 20240824170447.png",
-    "data/Pasted image 20240824164627.png",
     "Teoria dei circuiti/Bipoli",
     "old/circuiti elettrici/Leggi per i circuiti.md",
     "old/circuiti elettrici/Risoluzione di circuiti.md",
     "old/circuiti elettrici/Teoria dei circuiti.md",
-    "old/circuiti elettrici/Bipoli notevoli.md",
-    "old/elettrostatica/Tensione flusso e corrente.md",
     "Teoria dei circuiti",
     "data",
     "Elettrostatica",

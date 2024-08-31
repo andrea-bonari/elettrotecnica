@@ -47,6 +47,7 @@
   "exportPath": "/home/andrea/polimi/export",
   "filesToExport": [
     [
+      "Bipoli compositi",
       "Elettrostatica",
       "Teoria dei circuiti",
       "index.md",

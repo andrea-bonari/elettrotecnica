@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33d0b9142d4726a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teoria dei circuiti/Principio di sovrapposizione degli effetti.md",
+                "file": "Bipoli compositi/Doppi bipoli.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria dei circuiti/Principio di sovrapposizione degli effetti.md",
+                "file": "Bipoli compositi/Doppi bipoli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria dei circuiti/Principio di sovrapposizione degli effetti.md",
+                "file": "Bipoli compositi/Doppi bipoli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoria dei circuiti/Principio di sovrapposizione degli effetti.md"
+                "file": "Bipoli compositi/Doppi bipoli.md"
               }
             }
           }
@@ -162,7 +149,7 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "33d0b9142d4726a7",
+  "active": "9699b14e4591f6e8",
   "lastOpenFiles": [
     "Introduzione al corso.md",
     "Elettrostatica/Fondamenti di elettrostatica.md",
@@ -176,30 +163,31 @@
     "Teoria dei circuiti/N-poli.md",
     "Teoria dei circuiti/Bipoli/Bipoli.md",
     "Teoria dei circuiti/Bipoli/Connessione di bipoli.md",
-    "Teoria dei circuiti/Circuiti equivalenti di Thevenin e Norton.md",
     "Teoria dei circuiti/Generatori pilotati.md",
     "Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
     "Teoria dei circuiti/Principio di sovrapposizione degli effetti.md",
-    "data/Pasted image 20240829141112.png",
+    "Teoria dei circuiti/Circuiti equivalenti di Thevenin e Norton.md",
+    "Teoria dei circuiti/Metodo delle prove semplici.md",
+    "Bipoli compositi/Doppi bipoli.md",
+    "data/Pasted image 20240821162658.png",
     "index.md",
-    "data/Pasted image 20240829092700.png",
-    "data/Pasted image 20240827114235.png",
-    "data/Pasted image 20240827114036.png",
-    "data/Pasted image 20240827113854.png",
-    "data/Pasted image 20240827112904.png",
+    "data/Pasted image 20240831191718.png",
+    "data/Pasted image 20240831104138.png",
+    "data/Pasted image 20240831102421.png",
+    "data/Pasted image 20240831101750.png",
+    "data/Pasted image 20240831101416.png",
+    "data/Pasted image 20240830160759.png",
+    "data/Pasted image 20240830160430.png",
+    "data/Pasted image 20240830155839.png",
+    "data/Pasted image 20240830155619.png",
+    "Bipoli compositi",
     "Campagna.md",
-    "data/Pasted image 20240824171139.png",
-    "data/Pasted image 20240824170902.png",
-    "data/Pasted image 20240824170727.png",
     "old/circuiti elettrici/Circuiti equivalenti.md",
     "old/circuiti elettrici/Classificazione dei bipoli.md",
     "old/circuiti elettrici/Potenza.md",
     "old/circuiti elettrici/Connessione di bipoli.md",
-    "data/Pasted image 20240824170611.png",
     "Teoria dei circuiti/Bipoli",
     "old/circuiti elettrici/Leggi per i circuiti.md",
-    "old/circuiti elettrici/Risoluzione di circuiti.md",
-    "old/circuiti elettrici/Teoria dei circuiti.md",
     "Teoria dei circuiti",
     "data",
     "Elettrostatica",
@@ -207,7 +195,6 @@
     "old/data",
     "old/temp",
     "old/elettromagnetismo",
-    "old/trifase",
-    "old/fasori"
+    "old/trifase"
   ]
 }

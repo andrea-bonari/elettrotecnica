@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c017b1fbc44f549a",
+        "id": "32998527ff945a71",
         "type": "tabs",
         "children": [
           {
-            "id": "9699b14e4591f6e8",
+            "id": "74da9f3e544dfe86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bipoli compositi/Doppi bipoli.md",
+                "file": "Bipoli compositi/Amplificatore operazionale ideale.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bipoli compositi/Doppi bipoli.md",
+                "file": "Bipoli compositi/Amplificatore operazionale ideale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bipoli compositi/Doppi bipoli.md",
+                "file": "Bipoli compositi/Amplificatore operazionale ideale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bipoli compositi/Doppi bipoli.md"
+                "file": "Bipoli compositi/Amplificatore operazionale ideale.md"
               }
             }
           }
@@ -149,7 +149,7 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "9699b14e4591f6e8",
+  "active": "74da9f3e544dfe86",
   "lastOpenFiles": [
     "Introduzione al corso.md",
     "Elettrostatica/Fondamenti di elettrostatica.md",
@@ -169,25 +169,25 @@
     "Teoria dei circuiti/Circuiti equivalenti di Thevenin e Norton.md",
     "Teoria dei circuiti/Metodo delle prove semplici.md",
     "Bipoli compositi/Doppi bipoli.md",
-    "data/Pasted image 20240821162658.png",
+    "Bipoli compositi/Trasferitore ideale di potenza.md",
+    "Bipoli compositi/Amplificatore operazionale ideale.md",
     "index.md",
+    "data/Pasted image 20240901105014.png",
+    "data/Pasted image 20240901104633.png",
+    "data/Pasted image 20240901104314.png",
+    "data/Pasted image 20240901103858.png",
+    "data/Pasted image 20240901103458.png",
+    "data/Pasted image 20240901103231.png",
+    "data/Pasted image 20240901103154.png",
+    "data/Pasted image 20240901101426.png",
+    "data/Pasted image 20240821162658.png",
     "data/Pasted image 20240831191718.png",
-    "data/Pasted image 20240831104138.png",
-    "data/Pasted image 20240831102421.png",
-    "data/Pasted image 20240831101750.png",
-    "data/Pasted image 20240831101416.png",
-    "data/Pasted image 20240830160759.png",
-    "data/Pasted image 20240830160430.png",
-    "data/Pasted image 20240830155839.png",
-    "data/Pasted image 20240830155619.png",
     "Bipoli compositi",
     "Campagna.md",
     "old/circuiti elettrici/Circuiti equivalenti.md",
     "old/circuiti elettrici/Classificazione dei bipoli.md",
     "old/circuiti elettrici/Potenza.md",
-    "old/circuiti elettrici/Connessione di bipoli.md",
     "Teoria dei circuiti/Bipoli",
-    "old/circuiti elettrici/Leggi per i circuiti.md",
     "Teoria dei circuiti",
     "data",
     "Elettrostatica",

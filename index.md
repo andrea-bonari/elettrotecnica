@@ -18,3 +18,5 @@ Il corso di Elettrotecnica inizia con un'introduzione ai circuiti elettrici, il 
 	8. [[Principio di sovrapposizione degli effetti]]
 	9. [[Metodo delle prove semplici]]
 4. [[Doppi bipoli]]
+	1. [[Trasferitore ideale di potenza]]
+	2. [[Amplificatore operazionale ideale]]

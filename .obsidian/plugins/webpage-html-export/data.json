@@ -48,6 +48,7 @@
   "filesToExport": [
     [
       "Bipoli compositi",
+      "Componenti dinamici",
       "Elettrostatica",
       "Teoria dei circuiti",
       "index.md",

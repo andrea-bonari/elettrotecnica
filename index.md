@@ -20,3 +20,6 @@ Il corso di Elettrotecnica inizia con un'introduzione ai circuiti elettrici, il 
 4. [[Doppi bipoli]]
 	1. [[Trasferitore ideale di potenza]]
 	2. [[Amplificatore operazionale ideale]]
+	3. [[Doppi bipoli lineari affini]]
+	4. [[Collegamento di doppi bipoli]]
+5. [[Componenti dinamici]]

@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Componenti dinamici/Componenti dinamici.md",
+      "timestamp": 1725289514265
+    },
+    {
+      "filepath": "Bipoli compositi/Trasferitore ideale di potenza.md",
+      "timestamp": 1725289513946
+    },
+    {
       "filepath": "Bipoli compositi/Amplificatore operazionale ideale.md",
-      "timestamp": 1725181153923
+      "timestamp": 1725289513801
     },
     {
-      "filepath": "Introduzione al corso.md",
-      "timestamp": 1725181153214
+      "filepath": "Bipoli compositi/Doppi bipoli lineari affini.md",
+      "timestamp": 1725289513609
     },
     {
-      "filepath": "Elettrostatica/Fondamenti di elettrostatica.md",
-      "timestamp": 1725181153051
-    },
-    {
-      "filepath": "Elettrostatica/Potenziale e tensione elettrica.md",
-      "timestamp": 1725181152756
-    },
-    {
-      "filepath": "Elettrostatica/Flusso di un campo vettoriale.md",
-      "timestamp": 1725181152505
+      "filepath": "Teoria dei circuiti/Metodo delle prove semplici.md",
+      "timestamp": 1725289513448
     }
   ],
   "starredFileStore": [],

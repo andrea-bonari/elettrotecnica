@@ -11,7 +11,7 @@
 >![[Pasted image 20240901104633.png]]
 >Per porre $v_{d}$ nell'intervallo $[-\varepsilon, \varepsilon]$, cioè nella regione in cui l'OP AMP opera in modo lineare, tuttavia in anello aperto è molto difficile. Per questo introduciamo il concetto di retroazione:
 >![[Pasted image 20240901105014.png]]
->Risolvendo il circuito avremo che $$\lim_{\alpha\to+\infty}v_{d}=0\qquad \lim_{\alpha\to +\infty}v_{0}= - \frac{R_{2}}{R1}E$$
+>Risolvendo il circuito avremo che $$\lim_{\alpha\to+\infty}v_{d}=0\qquad \lim_{\alpha\to +\infty}v_{0}= - \frac{R_{2}}{R_{1}}E$$
 
 >[!tip] Bipoli patologici
 >Un bipolo patologico è un bipolo descritto da due equazioni costitutive.

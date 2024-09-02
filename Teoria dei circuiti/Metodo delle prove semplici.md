@@ -8,7 +8,7 @@
 >
 >Analogamente, nel caso dell'equivalente di Norton, supponiamo di collegare un generatore di tensione indipendente ai morsetti dell'equivalente:
 >![[Pasted image 20240830154139.png]]
->$$i=G_{NR}+A_{NR}$$
+>$$i=G_{NR}V+A_{NR}$$
 >Quindi: $$G_{NR}= \frac{i}{V}\bigg|_{A_{NR}=0}\qquad A_{NR}= i\bigg|_{V=0}$$
 >La tensione di cortocircuito sarà $A_{NR}$
 

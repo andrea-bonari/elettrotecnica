@@ -7,7 +7,7 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "C:\\Users\\andrea\\Downloads\\elettrotecnica-master\\t",
+    "exportPath": "/output",
     "filesToExport": [
       "Bipoli compositi",
       "Componenti dinamici",
@@ -171,7 +171,7 @@
     "flattenExportPaths": false,
     "fixLinks": true,
     "siteURL": "",
-    "siteName": "elettrotecnica-master",
+    "siteName": "Elettrotecnica",
     "faviconPath": "",
     "customHeadPath": "",
     "iconEmojiStyle": "Native",

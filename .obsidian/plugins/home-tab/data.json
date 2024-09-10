@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Componenti dinamici/Componenti dinamici.md",
-      "timestamp": 1725289514265
+      "filepath": "Introduzione al corso.md",
+      "timestamp": 1725970769355
     },
     {
-      "filepath": "Bipoli compositi/Trasferitore ideale di potenza.md",
-      "timestamp": 1725289513946
+      "filepath": "Teoria dei circuiti/Bipoli/Bipoli.md",
+      "timestamp": 1725970768908
     },
     {
-      "filepath": "Bipoli compositi/Amplificatore operazionale ideale.md",
-      "timestamp": 1725289513801
+      "filepath": "Teoria dei circuiti/Bipoli/Connessione di bipoli.md",
+      "timestamp": 1725970768200
     },
     {
-      "filepath": "Bipoli compositi/Doppi bipoli lineari affini.md",
-      "timestamp": 1725289513609
+      "filepath": "Teoria dei circuiti/Circuiti equivalenti di Thevenin e Norton.md",
+      "timestamp": 1725970767759
     },
     {
-      "filepath": "Teoria dei circuiti/Metodo delle prove semplici.md",
-      "timestamp": 1725289513448
+      "filepath": "Teoria dei circuiti/Generatori pilotati.md",
+      "timestamp": 1725970767360
     }
   ],
   "starredFileStore": [],

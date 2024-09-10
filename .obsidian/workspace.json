@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "32998527ff945a71",
+        "id": "4f9b73fd96f3e305",
         "type": "tabs",
         "children": [
           {
-            "id": "74da9f3e544dfe86",
+            "id": "6f23c5bb8e6a0fd4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8231ba4ecde26719",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Componenti dinamici/Componenti dinamici.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Componenti dinamici/Componenti dinamici.md",
+                "file": "Teoria dei circuiti/Bipoli/Bipoli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Componenti dinamici/Componenti dinamici.md",
+                "file": "Teoria dei circuiti/Bipoli/Bipoli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Componenti dinamici/Componenti dinamici.md"
+                "file": "Teoria dei circuiti/Bipoli/Bipoli.md"
               }
             }
           }
@@ -151,7 +134,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "webpage-html-export:Export Vault to HTML": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -159,26 +141,75 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "webpage-html-export:Export Vault to HTML": false,
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "8231ba4ecde26719",
+  "floating": {
+    "id": "18e26350d10599f4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "31d2780b44c9d1ff",
+        "type": "window",
+        "children": [
+          {
+            "id": "deb5ec16275bb538",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5b93b67b82e565ed",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Teoria dei circuiti/Bipoli/Bipoli.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 190,
+        "y": 499,
+        "width": 1000,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5b93b67b82e565ed",
   "lastOpenFiles": [
-    "Bipoli compositi/Trasferitore ideale di potenza.md",
-    "Bipoli compositi/Amplificatore operazionale ideale.md",
-    "Bipoli compositi/Doppi bipoli lineari affini.md",
+    "Teoria dei circuiti/Bipoli/Connessione di bipoli.md",
+    "Teoria dei circuiti/Circuiti equivalenti di Thevenin e Norton.md",
+    "Teoria dei circuiti/Generatori pilotati.md",
     "Teoria dei circuiti/Metodo delle prove semplici.md",
-    "Bipoli compositi/Collegamento di doppi bipoli.md",
-    "Componenti dinamici/Componenti dinamici.md",
-    "index.md",
+    "Teoria dei circuiti/N-poli.md",
+    "Teoria dei circuiti/Potenza ed energia elettrica.md",
+    "Teoria dei circuiti/Principio di sovrapposizione degli effetti.md",
+    "Teoria dei circuiti/Risoluzione di circuiti.md",
+    "Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
+    "Teoria dei circuiti/Teoria dei circuiti.md",
+    "Elettrostatica/Fondamenti di elettrostatica.md",
     "Elettrostatica/Materiale conduttore.md",
+    "Elettrostatica/Flusso di un campo vettoriale.md",
     "Elettrostatica/Potenziale e tensione elettrica.md",
     "Elettrostatica/Principio di conservazione della carica.md",
+    "Componenti dinamici/Componenti dinamici.md",
+    "Bipoli compositi/Amplificatore operazionale ideale.md",
+    "Bipoli compositi/Collegamento di doppi bipoli.md",
+    "Bipoli compositi/Doppi bipoli lineari affini.md",
+    "Bipoli compositi/Doppi bipoli.md",
+    "Bipoli compositi/Trasferitore ideale di potenza.md",
+    "index.md",
     "data/Pasted image 20240902165354.png",
     "data/Pasted image 20240902165330.png",
     "data/Pasted image 20240902165224.png",
     "data/Pasted image 20240902165202.png",
-    "Teoria dei circuiti/Bipoli/Connessione di bipoli.md",
     "Componenti dinamici",
     "data/Pasted image 20240902164742.png",
     "data/Pasted image 20240902164403.png",
@@ -186,19 +217,8 @@
     "data/Pasted image 20240902164157.png",
     "data/Pasted image 20240902163846.png",
     "data/Pasted image 20240902163313.png",
-    "Bipoli compositi/Doppi bipoli.md",
     "Introduzione al corso.md",
-    "Elettrostatica/Fondamenti di elettrostatica.md",
-    "Elettrostatica/Flusso di un campo vettoriale.md",
-    "Teoria dei circuiti/Teoria dei circuiti.md",
-    "Teoria dei circuiti/Risoluzione di circuiti.md",
-    "Teoria dei circuiti/Potenza ed energia elettrica.md",
-    "Teoria dei circuiti/N-poli.md",
     "Teoria dei circuiti/Bipoli/Bipoli.md",
-    "Teoria dei circuiti/Generatori pilotati.md",
-    "Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
-    "Teoria dei circuiti/Principio di sovrapposizione degli effetti.md",
-    "Teoria dei circuiti/Circuiti equivalenti di Thevenin e Norton.md",
     "Bipoli compositi",
     "Campagna.md",
     "Teoria dei circuiti/Bipoli",

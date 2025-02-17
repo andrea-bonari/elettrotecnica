@@ -8,11 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f23c5bb8e6a0fd4",
+            "id": "ff74a53c2a6ca8e6",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
-              "state": {}
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ]
@@ -34,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +55,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria dei circuiti/Bipoli/Bipoli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -98,10 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria dei circuiti/Bipoli/Bipoli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -112,7 +123,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -120,9 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Teoria dei circuiti/Bipoli/Bipoli.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -134,100 +147,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "webpage-html-export:Export Vault to HTML": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "markdown-table-editor:Open Markdown Table Editor": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "18e26350d10599f4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "31d2780b44c9d1ff",
-        "type": "window",
-        "children": [
-          {
-            "id": "deb5ec16275bb538",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5b93b67b82e565ed",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Teoria dei circuiti/Bipoli/Bipoli.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 190,
-        "y": 499,
-        "width": 1000,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "5b93b67b82e565ed",
+  "active": "ff74a53c2a6ca8e6",
   "lastOpenFiles": [
-    "Teoria dei circuiti/Bipoli/Connessione di bipoli.md",
-    "Teoria dei circuiti/Circuiti equivalenti di Thevenin e Norton.md",
-    "Teoria dei circuiti/Generatori pilotati.md",
-    "Teoria dei circuiti/Metodo delle prove semplici.md",
-    "Teoria dei circuiti/N-poli.md",
-    "Teoria dei circuiti/Potenza ed energia elettrica.md",
-    "Teoria dei circuiti/Principio di sovrapposizione degli effetti.md",
-    "Teoria dei circuiti/Risoluzione di circuiti.md",
-    "Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
-    "Teoria dei circuiti/Teoria dei circuiti.md",
-    "Elettrostatica/Fondamenti di elettrostatica.md",
-    "Elettrostatica/Materiale conduttore.md",
-    "Elettrostatica/Flusso di un campo vettoriale.md",
-    "Elettrostatica/Potenziale e tensione elettrica.md",
-    "Elettrostatica/Principio di conservazione della carica.md",
-    "Componenti dinamici/Componenti dinamici.md",
-    "Bipoli compositi/Amplificatore operazionale ideale.md",
-    "Bipoli compositi/Collegamento di doppi bipoli.md",
-    "Bipoli compositi/Doppi bipoli lineari affini.md",
-    "Bipoli compositi/Doppi bipoli.md",
-    "Bipoli compositi/Trasferitore ideale di potenza.md",
-    "index.md",
-    "data/Pasted image 20240902165354.png",
-    "data/Pasted image 20240902165330.png",
-    "data/Pasted image 20240902165224.png",
-    "data/Pasted image 20240902165202.png",
-    "Componenti dinamici",
-    "data/Pasted image 20240902164742.png",
-    "data/Pasted image 20240902164403.png",
-    "data/Pasted image 20240902164322.png",
-    "data/Pasted image 20240902164157.png",
-    "data/Pasted image 20240902163846.png",
-    "data/Pasted image 20240902163313.png",
     "Introduzione al corso.md",
-    "Teoria dei circuiti/Bipoli/Bipoli.md",
-    "Bipoli compositi",
+    "index.md",
+    "old",
+    "old/Teoria dei circuiti/Bipoli/Bipoli.md",
+    "old/Teoria dei circuiti/Bipoli/Connessione di bipoli.md",
+    "old/Teoria dei circuiti/Circuiti equivalenti di Thevenin e Norton.md",
+    "old/Teoria dei circuiti/Generatori pilotati.md",
+    "old/Teoria dei circuiti/Metodo delle prove semplici.md",
+    "old/Teoria dei circuiti/N-poli.md",
+    "old/Teoria dei circuiti/Potenza ed energia elettrica.md",
+    "old/Teoria dei circuiti/Principio di sovrapposizione degli effetti.md",
+    "old/Teoria dei circuiti/Risoluzione di circuiti.md",
+    "old/Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
+    "old/Teoria dei circuiti/Teoria dei circuiti.md",
+    "old/Elettrostatica/Fondamenti di elettrostatica.md",
+    "old/Elettrostatica/Materiale conduttore.md",
+    "old/Elettrostatica/Flusso di un campo vettoriale.md",
+    "old/Elettrostatica/Potenziale e tensione elettrica.md",
+    "old/Elettrostatica/Principio di conservazione della carica.md",
+    "old/Componenti dinamici/Componenti dinamici.md",
+    "old/Bipoli compositi/Amplificatore operazionale ideale.md",
+    "old/Bipoli compositi/Collegamento di doppi bipoli.md",
+    "old/Bipoli compositi/Doppi bipoli lineari affini.md",
+    "old/Bipoli compositi/Doppi bipoli.md",
+    "old/Bipoli compositi/Trasferitore ideale di potenza.md",
+    "old/data/Pasted image 20240902165354.png",
+    "old/data/Pasted image 20240902165330.png",
+    "old/data/Pasted image 20240902165224.png",
+    "old/data/Pasted image 20240902165202.png",
+    "old/Componenti dinamici",
+    "old/data/Pasted image 20240902164742.png",
+    "old/data/Pasted image 20240902164403.png",
+    "old/data/Pasted image 20240902164322.png",
+    "old/data/Pasted image 20240902164157.png",
+    "old/data/Pasted image 20240902163846.png",
+    "old/data/Pasted image 20240902163313.png",
+    "old/Bipoli compositi",
     "Campagna.md",
-    "Teoria dei circuiti/Bipoli",
-    "Teoria dei circuiti",
-    "data",
-    "Elettrostatica",
+    "old/Teoria dei circuiti/Bipoli",
+    "old/Teoria dei circuiti",
+    "old/data",
+    "old/Elettrostatica",
     "old",
     "old/data",
-    "old/temp",
-    "old/elettromagnetismo"
+    "old/temp"
   ]
 }

@@ -9,10 +9,11 @@
     "inlineHTML": false,
     "exportPath": "/output",
     "filesToExport": [
-      "Bipoli compositi",
-      "Componenti dinamici",
-      "Elettrostatica",
-      "Teoria dei circuiti",
+      "Equazioni differenziali",
+      "Funzioni a più variabili",
+      "Serie di funzioni",
+      "Sistemi differenziali lineari",
+      "Spazio n-dimensionale",
       "index.md",
       "Introduzione al corso.md"
     ],
@@ -176,7 +177,7 @@
     "customHeadPath": "",
     "iconEmojiStyle": "Native",
     "authorName": "",
-    "exportRoot": "",
+    "exportRoot": "/",
     "includePluginCSS": [],
     "includeSvelteCSS": true
   },

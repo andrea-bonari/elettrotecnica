@@ -90,7 +90,6 @@ Il corso si propone di fornire agli studenti nozioni fondamentali di teoria dei 
 		3. Trasformatore reale.
 
 ## Prerequisiti
-
 Matematica: Calcolo differenziale e integrale per funzioni di variabile reale. Algebra dei numeri complessi. Elementi di calcolo matriciale.
 Fisica: Potenza, lavoro, energia
 

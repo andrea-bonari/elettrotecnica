@@ -1,3 +1,10 @@
 Il corso di Elettrotecnica inizia con un'introduzione ai circuiti elettrici, il concetto di bipolo, le grandezze elettriche come tensione, corrente e potenza, e le leggi di Kirchhoff. Si studiano i bipoli puramente resistivi e i modelli di Thévenin e Norton. Doppi bipoli lineari vengono analizzati con rappresentazioni matriciali e l'uso di amplificatori operazionali. L'analisi dei circuiti include trasformazioni di generatori, analisi nodale, teoremi di Thévenin e Norton, e il principio di sovrapposizione. Componenti dinamici come condensatori e induttori vengono esplorati nei circuiti RC e RL. In regime sinusoidale, si studiano sinusoidi con fasori, impedenza, potenza complessa, rifasamento, e sistemi trifase. Cenni di elettromagnetismo trattano campi scalari e vettoriali, campi elettrostatici e magnetostatici, e induzione elettromagnetica con la legge di Faraday e il trasformatore reale.
 
 1. [[Introduzione al corso]]
+2. [[Elettrostatica]]
+	1. [[Tensione elettrica]]
+	2. [[Elettrostatica/Flusso di un campo vettoriale|Flusso di un campo vettoriale]]
+	3. [[Corrente elettrica]]
+	4. [[Elettrostatica/Principio di conservazione della carica|Principio di conservazione della carica]]
+3. [[Circuiti a parametri concentrati|Circuiti a parametri concentrati]]
+	1. 

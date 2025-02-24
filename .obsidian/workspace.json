@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Circuiti/Circuiti a parametri concentrati.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Circuiti a parametri concentrati"
+              "title": "index"
             }
           }
         ]
@@ -164,8 +164,8 @@
   },
   "active": "853c0eeb22453a1f",
   "lastOpenFiles": [
-    "old/Teoria dei circuiti/Teoria dei circuiti.md",
     "Circuiti/Circuiti a parametri concentrati.md",
+    "old/Teoria dei circuiti/Teoria dei circuiti.md",
     "data/Pasted image 20250224165223.png",
     "index.md",
     "old/Bipoli compositi/Doppi bipoli.md",

@@ -7,4 +7,3 @@ Il corso di Elettrotecnica inizia con un'introduzione ai circuiti elettrici, il 
 	3. [[Corrente elettrica]]
 	4. [[Elettrostatica/Principio di conservazione della carica|Principio di conservazione della carica]]
 3. [[Circuiti a parametri concentrati|Circuiti a parametri concentrati]]
-	1. 

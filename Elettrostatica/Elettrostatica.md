@@ -22,7 +22,7 @@
 >Si dice quasi-stazionario se: $$\frac{\partial}{\partial t}\overrightarrow{E}(x,y,z,y)\simeq0$$
 
 Un campo elettrico è orientato radialmente rispetto alla carica che lo genera:
-![[Pasted image 20250218174513.png]]
+![[Pasted image 20250218174513.png|center]]
 
 >[!tip]
 >Un campo è una funzione $f$ in $\mathbb{R}^{n}$ che associa a un punto dello spazio un particolare valore. Si distingue in campi scalari e vettoriali in base a come è definito: $$\begin{align*}
@@ -30,5 +30,5 @@ Un campo elettrico è orientato radialmente rispetto alla carica che lo genera:
 >&\overrightarrow{g}(x,y,z,t)=\overrightarrow{v}\quad\overrightarrow{v}\in\mathbb{R}^{n}
 >\end{align*}$$
 >Si definiscono le linee di campo come un insieme di punti a cui un dato campo vettoriale è tangente:
->![[Pasted image 20250218174501.png]]
+>![[Pasted image 20250218174501.png|center]]
 

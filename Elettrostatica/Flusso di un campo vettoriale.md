@@ -11,7 +11,7 @@
 
 >[!example]
 >Sia il flusso di $\overrightarrow{E}$ generato da una carica puntiforme $Q$ attraverso una superficie chiusa di forma sferica:
->![[Pasted image 20250224151841.png]]
+>![[Pasted image 20250224151841.png|center]]
 >Sapendo che: $$\begin{align*}
 >\overrightarrow{E}&=  \frac{1}{4\pi\varepsilon_{0}}\cdot \frac{Q}{||\overrightarrow{r}||^{2}}\cdot \hat{r}\\
 >\Phi_{S}(\overrightarrow{E})&= \oint_{S}\overrightarrow{E}\cdot \hat{u}_{n}\text{ d}S

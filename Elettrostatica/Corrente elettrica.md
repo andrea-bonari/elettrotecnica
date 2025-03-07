@@ -11,7 +11,7 @@ I&=  \frac{\Delta Q}{\Delta t}=\underbrace{\rho_{v}\cdot \overrightarrow{v}}_\te
 ### Materiale conduttore
 >[!note]
 >Un materiale conduttore è un materiale in cui le cariche siano libere di muoversi.
->![[Pasted image 20250224154327.png]]
+>![[Pasted image 20250224154327.png|center]]
 >In assenza di $\overrightarrow{E}$ la direzione di attraversamento della superficie $S$ è casuale (in media $I=0$). Applicando $\overrightarrow{E}$, gli elettroni saranno soggetti a una forza $-e\overrightarrow{E}$, e cominceranno all'interno del conduttore ad una velocità $\overrightarrow{v}$, detta di drift. Questo valore è proporzionale al campo elettrico: $$\overrightarrow{v}=-\mu\overrightarrow{E}$$
 >Con $\mu$ mobilità delle cariche libere dipendente dal materiale.
 
@@ -21,7 +21,7 @@ I&=  \frac{\Delta Q}{\Delta t}=\underbrace{\rho_{v}\cdot \overrightarrow{v}}_\te
 >Dove $R$ è la resistenza, e dipende sia dalle caratteristiche fisiche del materiale, sia dalla sua geometria.
 
 >[!example] Dimostrazione
->![[Pasted image 20240822173135.png]]
+>![[Pasted image 20240822173135.png|center]]
 >Supponiamo per ipotesi che i portatori di carica siano elettroni ($\rho_{v}<0$) e che il campo elettrico $\overrightarrow{E}$ sia costante all'interno del materiale.
 >Calcoliamo la differenza di potenziale tra $A$ e $B$:
 >$$\begin{align*}

@@ -14,4 +14,6 @@ Il corso di Elettrotecnica inizia con un'introduzione ai circuiti elettrici, il 
 		1. [[Connessione in serie di bipoli]]
 		2. [[Connessione in parallelo di bipoli]]
 	5. [[Circuiti equivalenti di Thévenin e Norton]]
-	6. 
+	6. [[Generatori pilotati]]
+	7. [[Teorema di esistenza e unicità della soluzione]]
+	8. [[Circuiti/Analisi dei circuiti/Principio di sovrapposizione degli effetti|Principio di sovrapposizione degli effetti]]

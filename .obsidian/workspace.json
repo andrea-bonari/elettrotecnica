@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7a3be40cc99a1fe8",
+        "id": "27adba0ec1427770",
         "type": "tabs",
         "children": [
           {
-            "id": "f6ba84c0bff45e22",
+            "id": "41585a2d792dae77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Circuiti/Analisi dei circuiti/Teorema di esistenza e unicità della soluzione.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Teorema di esistenza e unicità della soluzione"
+            }
+          },
+          {
+            "id": "f2afe96ffd11cf17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "old/Teoria dei circuiti/Principio di sovrapposizione degli effetti.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Principio di sovrapposizione degli effetti"
             }
           }
         ]
@@ -162,35 +176,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f6ba84c0bff45e22",
+  "active": "41585a2d792dae77",
   "lastOpenFiles": [
+    "index.md",
+    "Circuiti/Analisi dei circuiti/Principio di sovrapposizione degli effetti.md",
+    "old/Teoria dei circuiti/Principio di sovrapposizione degli effetti.md",
+    "Circuiti/Teoria dei grafi per circuiti.md",
+    "Circuiti/Analisi dei circuiti/Teorema di esistenza e unicità della soluzione.md",
+    "old/Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
+    "Introduzione al corso.md",
+    "old/Teoria dei circuiti/Metodo delle prove semplici.md",
+    "old/Teoria dei circuiti/Circuiti equivalenti di Thevenin e Norton.md",
+    "Circuiti/Analisi dei circuiti/Generatori pilotati.md",
+    "old/Teoria dei circuiti/Generatori pilotati.md",
+    "Circuiti/Circuiti adinamici/Classificazione di bipoli.md",
+    "data/Pasted image 20240827114235.png",
+    "old/data/Pasted image 20240829092700.png",
+    "data/Pasted image 20240827114036.png",
+    "old/data/Pasted image 20240830153858.png",
+    "old/data/Pasted image 20240830155839.png",
+    "old/data/Pasted image 20240830155545.png",
+    "old/data/Pasted image 20240830155619.png",
+    "old/data/Pasted image 20240830160430.png",
+    "old/data/Pasted image 20240830154139.png",
+    "old/data/Pasted image 20240830154138.png",
     "Circuiti/Circuiti adinamici/Circuiti equivalenti di Thévenin e Norton.md",
     "Circuiti/Circuiti adinamici/Connessione in serie di bipoli.md",
     "Circuiti/Potenza ed energia elettrica.md",
-    "Circuiti/Teoria dei grafi per circuiti.md",
     "Circuiti/Basi di definizione.md",
-    "old/Teoria dei circuiti/Generatori pilotati.md",
-    "old/Teoria dei circuiti/Circuiti equivalenti di Thevenin e Norton.md",
     "old/Teoria dei circuiti/Bipoli/Connessione di bipoli.md",
-    "index.md",
-    "Circuiti/Circuiti adinamici/Classificazione di bipoli.md",
-    "data/Pasted image 20250306230915.png",
-    "data/Pasted image 20250306230840.png",
-    "data/Pasted image 20250306230529.png",
-    "data/Pasted image 20250306230732.png",
     "Circuiti/Circuiti adinamici/Connessione in parallelo di bipoli.md",
-    "data/Pasted image 20250306225203.png",
-    "data/Pasted image 20250306223657.png",
-    "data/Pasted image 20240823175125.png",
-    "data/Pasted image 20240823172922.png",
-    "old/data/Pasted image 20240823165711.png",
-    "old/data/Pasted image 20240824102606.png",
-    "old/Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
-    "old/Teoria dei circuiti/Principio di sovrapposizione degli effetti.md",
-    "old/Teoria dei circuiti/Metodo delle prove semplici.md",
     "old/Teoria dei circuiti/Bipoli/Bipoli.md",
     "old/Teoria dei circuiti/Teoria dei circuiti.md",
-    "Introduzione al corso.md",
     "old/Teoria dei circuiti/Risoluzione di circuiti.md",
     "old/Teoria dei circuiti/Potenza ed energia elettrica.md",
     "old/Teoria dei circuiti/N-poli.md",
@@ -198,8 +215,6 @@
     "Untitled",
     "Circuiti/Circuiti a parametri concentrati.md",
     "Circuiti/Teorema di Tellegen.md",
-    "Elettrostatica/Tensione elettrica.md",
-    "Elettrostatica/Principio di conservazione della carica.md",
     "Elettromagnetismo",
     "Circuiti/Circuiti in regime sinusoidale",
     "Circuiti/Circuiti dinamici",

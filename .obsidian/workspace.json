@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Circuiti/Analisi dei circuiti/Teorema di esistenza e unicità della soluzione.md",
+                "file": "Circuiti/Circuiti adinamici/Connessione in parallelo di bipoli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teorema di esistenza e unicità della soluzione"
+              "title": "Connessione in parallelo di bipoli"
             }
           },
           {
@@ -178,16 +178,16 @@
   },
   "active": "41585a2d792dae77",
   "lastOpenFiles": [
-    "index.md",
-    "Circuiti/Analisi dei circuiti/Principio di sovrapposizione degli effetti.md",
     "old/Teoria dei circuiti/Principio di sovrapposizione degli effetti.md",
-    "Circuiti/Teoria dei grafi per circuiti.md",
+    "Circuiti/Analisi dei circuiti/Generatori pilotati.md",
+    "index.md",
     "Circuiti/Analisi dei circuiti/Teorema di esistenza e unicità della soluzione.md",
+    "Circuiti/Analisi dei circuiti/Principio di sovrapposizione degli effetti.md",
+    "Circuiti/Teoria dei grafi per circuiti.md",
     "old/Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
     "Introduzione al corso.md",
     "old/Teoria dei circuiti/Metodo delle prove semplici.md",
     "old/Teoria dei circuiti/Circuiti equivalenti di Thevenin e Norton.md",
-    "Circuiti/Analisi dei circuiti/Generatori pilotati.md",
     "old/Teoria dei circuiti/Generatori pilotati.md",
     "Circuiti/Circuiti adinamici/Classificazione di bipoli.md",
     "data/Pasted image 20240827114235.png",

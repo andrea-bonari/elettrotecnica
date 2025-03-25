@@ -4,38 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "27adba0ec1427770",
+        "id": "e32161d32bf258c1",
         "type": "tabs",
         "children": [
           {
-            "id": "41585a2d792dae77",
+            "id": "fae99ff743d0a0f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Circuiti/Circuiti adinamici/Connessione in parallelo di bipoli.md",
+                "file": "old/Bipoli compositi/Collegamento di doppi bipoli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Connessione in parallelo di bipoli"
+              "title": "Collegamento di doppi bipoli"
             }
           },
           {
-            "id": "f2afe96ffd11cf17",
+            "id": "a0788dc873946e7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "old/Teoria dei circuiti/Principio di sovrapposizione degli effetti.md",
+                "file": "Circuiti/Analisi dei circuiti/Teoremi di Thévenin e Norton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Principio di sovrapposizione degli effetti"
+              "title": "Teoremi di Thévenin e Norton"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,45 +177,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41585a2d792dae77",
+  "active": "a0788dc873946e7b",
   "lastOpenFiles": [
-    "old/Teoria dei circuiti/Principio di sovrapposizione degli effetti.md",
-    "Circuiti/Analisi dei circuiti/Generatori pilotati.md",
-    "index.md",
     "Circuiti/Analisi dei circuiti/Teorema di esistenza e unicità della soluzione.md",
+    "Circuiti/Analisi dei circuiti/Generatori pilotati.md",
     "Circuiti/Analisi dei circuiti/Principio di sovrapposizione degli effetti.md",
-    "Circuiti/Teoria dei grafi per circuiti.md",
-    "old/Teoria dei circuiti/Teorema di esistenza e unicità della soluzione.md",
-    "Introduzione al corso.md",
-    "old/Teoria dei circuiti/Metodo delle prove semplici.md",
-    "old/Teoria dei circuiti/Circuiti equivalenti di Thevenin e Norton.md",
-    "old/Teoria dei circuiti/Generatori pilotati.md",
-    "Circuiti/Circuiti adinamici/Classificazione di bipoli.md",
-    "data/Pasted image 20240827114235.png",
-    "old/data/Pasted image 20240829092700.png",
-    "data/Pasted image 20240827114036.png",
-    "old/data/Pasted image 20240830153858.png",
-    "old/data/Pasted image 20240830155839.png",
-    "old/data/Pasted image 20240830155545.png",
-    "old/data/Pasted image 20240830155619.png",
-    "old/data/Pasted image 20240830160430.png",
-    "old/data/Pasted image 20240830154139.png",
-    "old/data/Pasted image 20240830154138.png",
-    "Circuiti/Circuiti adinamici/Circuiti equivalenti di Thévenin e Norton.md",
+    "Circuiti/Doppi bipoli/Doppi bipoli lineari affini.md",
+    "index.md",
+    "Circuiti/Doppi bipoli/Collegamento in cascata di doppi bipoli.md",
+    "old/Bipoli compositi/Collegamento di doppi bipoli.md",
+    "Circuiti/Doppi bipoli/Collegamento in serie di doppi bipoli.md",
+    "Circuiti/Doppi bipoli/Collegamento in parallelo di doppi bipoli.md",
+    "data/Pasted image 20250324190423.png",
+    "data/Pasted image 20250324190140.png",
     "Circuiti/Circuiti adinamici/Connessione in serie di bipoli.md",
-    "Circuiti/Potenza ed energia elettrica.md",
-    "Circuiti/Basi di definizione.md",
-    "old/Teoria dei circuiti/Bipoli/Connessione di bipoli.md",
     "Circuiti/Circuiti adinamici/Connessione in parallelo di bipoli.md",
-    "old/Teoria dei circuiti/Bipoli/Bipoli.md",
-    "old/Teoria dei circuiti/Teoria dei circuiti.md",
-    "old/Teoria dei circuiti/Risoluzione di circuiti.md",
-    "old/Teoria dei circuiti/Potenza ed energia elettrica.md",
-    "old/Teoria dei circuiti/N-poli.md",
-    "Circuiti/Principio di equivalenza.md",
+    "data/Pasted image 20250324185743.png",
+    "old/Bipoli compositi/Amplificatore operazionale ideale.md",
+    "Circuiti/Doppi bipoli/Amplificatore operazionale ideale.md",
+    "Circuiti/Analisi dei circuiti/Teoremi di Thévenin e Norton.md",
+    "Circuiti/Doppi bipoli/Trasferitore ideale di potenza.md",
+    "Circuiti/Doppi bipoli/Doppi bipoli.md",
+    "data/Pasted image 20250324185052.png",
+    "data/Pasted image 20250324184703.png",
+    "data/Pasted image 20250324184638.png",
+    "Circuiti/Teoria dei grafi per circuiti.md",
+    "data/Pasted image 20240901104633.png",
+    "old/data/Pasted image 20240901105014.png",
+    "old/Componenti dinamici/Componenti dinamici.md",
+    "Circuiti/Circuiti adinamici/Classificazione di bipoli.md",
+    "Circuiti/Potenza ed energia elettrica.md",
+    "Circuiti/Circuiti adinamici/Circuiti equivalenti di Thévenin e Norton.md",
+    "data/Pasted image 20250320123345.png",
+    "data/Pasted image 20250320123221.png",
+    "old/Componenti dinamici/Stato di una rete elettrica.md",
+    "old/Bipoli compositi/Doppi bipoli.md",
+    "old/Bipoli compositi/Trasferitore ideale di potenza.md",
+    "old/Bipoli compositi/Doppi bipoli lineari affini.md",
+    "Tecniche di compressione di un immagine.md",
     "Untitled",
-    "Circuiti/Circuiti a parametri concentrati.md",
-    "Circuiti/Teorema di Tellegen.md",
     "Elettromagnetismo",
     "Circuiti/Circuiti in regime sinusoidale",
     "Circuiti/Circuiti dinamici",

@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e32161d32bf258c1",
+        "id": "87e45a8e2ea735bf",
         "type": "tabs",
         "children": [
           {
-            "id": "fae99ff743d0a0f3",
+            "id": "61df9022d2bcc690",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "old/Bipoli compositi/Collegamento di doppi bipoli.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Collegamento di doppi bipoli"
-            }
-          },
-          {
-            "id": "a0788dc873946e7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Circuiti/Analisi dei circuiti/Teoremi di Thévenin e Norton.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Teoremi di Thévenin e Norton"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,44 +162,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a0788dc873946e7b",
+  "active": "98b3f8a83d1b295f",
   "lastOpenFiles": [
-    "Circuiti/Analisi dei circuiti/Teorema di esistenza e unicità della soluzione.md",
-    "Circuiti/Analisi dei circuiti/Generatori pilotati.md",
-    "Circuiti/Analisi dei circuiti/Principio di sovrapposizione degli effetti.md",
-    "Circuiti/Doppi bipoli/Doppi bipoli lineari affini.md",
     "index.md",
-    "Circuiti/Doppi bipoli/Collegamento in cascata di doppi bipoli.md",
-    "old/Bipoli compositi/Collegamento di doppi bipoli.md",
-    "Circuiti/Doppi bipoli/Collegamento in serie di doppi bipoli.md",
-    "Circuiti/Doppi bipoli/Collegamento in parallelo di doppi bipoli.md",
-    "data/Pasted image 20250324190423.png",
-    "data/Pasted image 20250324190140.png",
-    "Circuiti/Circuiti adinamici/Connessione in serie di bipoli.md",
-    "Circuiti/Circuiti adinamici/Connessione in parallelo di bipoli.md",
-    "data/Pasted image 20250324185743.png",
-    "old/Bipoli compositi/Amplificatore operazionale ideale.md",
-    "Circuiti/Doppi bipoli/Amplificatore operazionale ideale.md",
-    "Circuiti/Analisi dei circuiti/Teoremi di Thévenin e Norton.md",
-    "Circuiti/Doppi bipoli/Trasferitore ideale di potenza.md",
-    "Circuiti/Doppi bipoli/Doppi bipoli.md",
-    "data/Pasted image 20250324185052.png",
-    "data/Pasted image 20250324184703.png",
-    "data/Pasted image 20250324184638.png",
-    "Circuiti/Teoria dei grafi per circuiti.md",
-    "data/Pasted image 20240901104633.png",
-    "old/data/Pasted image 20240901105014.png",
+    "File audio.md",
+    "Circuiti/Circuiti in regime sinusoidale/Regime multifrequenziale.md",
+    "data/Pasted image 20250410150508.png",
+    "Circuiti/Analisi dei circuiti/Principio di sovrapposizione degli effetti.md",
+    "Circuiti/Circuiti in regime sinusoidale/Generalizzazione dei teoremi al dominio dei fasori.md",
+    "Circuiti/Circuiti in regime sinusoidale/Teoria dei fasori.md",
+    "Circuiti/Doppi bipoli/Doppi bipoli lineari affini.md",
+    "data/Pasted image 20250410145901.png",
+    "data/Pasted image 20250410145652.png",
+    "Circuiti/Circuiti in regime sinusoidale/Equazioni costitutive nel dominio dei fasori.md",
+    "data/Pasted image 20240823172922.png",
+    "data/Pasted image 20240822173135.png",
+    "data/Pasted image 20240822170126.png",
+    "data/Pasted image 20250410143553.png",
+    "data/Pasted image 20250410143409.png",
+    "data/Pasted image 20250410143338.png",
+    "Circuiti/Circuiti dinamici/Risoluzione di circuiti RL e RC del primo ordine.md",
+    "Introduzione al corso.md",
+    "Circuiti/Circuiti dinamici/Componenti dinamici.md",
+    "Circuiti/Circuiti dinamici/Risoluzione di circuiti RLC di ordine superiore al primo.md",
+    "data/Pasted image 20240821162658.png",
+    "old/Componenti dinamici/Stato di una rete elettrica.md",
     "old/Componenti dinamici/Componenti dinamici.md",
     "Circuiti/Circuiti adinamici/Classificazione di bipoli.md",
-    "Circuiti/Potenza ed energia elettrica.md",
-    "Circuiti/Circuiti adinamici/Circuiti equivalenti di Thévenin e Norton.md",
-    "data/Pasted image 20250320123345.png",
-    "data/Pasted image 20250320123221.png",
-    "old/Componenti dinamici/Stato di una rete elettrica.md",
-    "old/Bipoli compositi/Doppi bipoli.md",
-    "old/Bipoli compositi/Trasferitore ideale di potenza.md",
-    "old/Bipoli compositi/Doppi bipoli lineari affini.md",
-    "Tecniche di compressione di un immagine.md",
+    "Circuiti/Circuiti a parametri concentrati.md",
+    "old/Bipoli compositi/Collegamento di doppi bipoli.md",
+    "Circuiti/Analisi dei circuiti/Teoremi di Thévenin e Norton.md",
+    "Circuiti/Analisi dei circuiti/Teorema di esistenza e unicità della soluzione.md",
+    "Circuiti/Analisi dei circuiti/Generatori pilotati.md",
+    "Circuiti/Doppi bipoli/Collegamento in cascata di doppi bipoli.md",
+    "Circuiti/Doppi bipoli/Collegamento in serie di doppi bipoli.md",
+    "Circuiti/Doppi bipoli/Collegamento in parallelo di doppi bipoli.md",
+    "Circuiti/Circuiti adinamici/Connessione in serie di bipoli.md",
+    "Circuiti/Circuiti adinamici/Connessione in parallelo di bipoli.md",
     "Untitled",
     "Elettromagnetismo",
     "Circuiti/Circuiti in regime sinusoidale",

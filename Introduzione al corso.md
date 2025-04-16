@@ -75,19 +75,19 @@ Il corso si propone di fornire agli studenti nozioni fondamentali di teoria dei 
 		2. Legge di Gauss per il campo elettrico.  
 		3. Potenziale elettrico e tensione.  
 		4. Capacità ed energia accumulata.  
-	1. Conduzione elettrica nei metalli.  
+	3. Conduzione elettrica nei metalli.  
 		1. Vettore densità di corrente e flusso.  
 		2. Resistenza e legge di Joule.  
-	1. Campo magnetostatico.  
+	4. Campo magnetostatico.  
 		1. Campo magnetico (H), densità di flusso magnetico (B) e permeabilità magnetica.  
 		2. Legge di Gauss per il campo magnetico.  
 		3. Legge di Ampere.  
 		4. Induttanza ed energia accumulata.  
 		5. Circuiti magnetici (forza magnetomotrice, tensione magnetica, riluttanza).  
-	1. Induzione elettromagnetica (legge di Faraday).  
-		1. Forza elettromotrice indotta.  
-		2. Auto e mutue induttanze.  
-		3. Trasformatore reale.
+	5. Induzione elettromagnetica (legge di Faraday).  
+		6. Forza elettromotrice indotta.  
+		7. Auto e mutue induttanze.  
+		8. Trasformatore reale.
 
 ## Prerequisiti
 Matematica: Calcolo differenziale e integrale per funzioni di variabile reale. Algebra dei numeri complessi. Elementi di calcolo matriciale.
@@ -100,5 +100,3 @@ Modalità di svolgimento delle prove di verifica: regolari appelli nei periodi p
 - domande in forma aperta e/o a risposta multipla sugli argomenti dell'insegnamento
 
 Un eventuale prova orale è a esclusiva discrezione del docente e riservata a casi in cui la valutazione è incerta. Per i corsi unione con crediti inferiori, le modalità rimangono le stesse e la prova sarà la medesima a meno degli argomenti non presenti nei corsi.
-
-

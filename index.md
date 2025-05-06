@@ -31,3 +31,5 @@ Il corso di Elettrotecnica inizia con un'introduzione ai circuiti elettrici, il 
 		1. [[Equazioni costitutive nel dominio dei fasori]]
 		2. [[Generalizzazione dei teoremi al dominio dei fasori]]
 		3. [[Regime multifrequenziale]]
+		4. [[Potenza istantanea in regime sinusoidale]]
+		5. [[Teorema di Boucherot]]

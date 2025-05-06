@@ -52,3 +52,10 @@ V=Ri \\
 >- Induttiva se $x(\omega)>0$
 >- Resistiva se $x(\omega)=0$
 
+### Pulsazione di risonanza
+>[!note]
+>Dati un induttore e un condensatore in serie, si ottiene un impedenza equivalente con equazione costitutiva: $$z(i\omega)= i \left( \omega L- \frac{1}{\omega C}\right)= i \frac{\omega^{2}LC-1}{\omega C}$$
+>Si ha che se $\omega= \frac{1}{\sqrt{LC}}$ allora $z=0$, e quindi l'impedenza equivalente si comporta come un corto circuito.
+>
+>Dati, invece, un induttore e un condensatore in parallelo, si ottiene un impedenza equivalente con equazione costitutiva: $$y(i\omega)=i\left(\omega C- \frac{1}{\omega L}\right)= i \frac{\omega^{2}LC-1}{\omega L}$$
+>Si ha che se $\omega= \frac{1}{\sqrt{LC}}$ allora $y=0$, e quindi l'impedenza equivalente si comporta compo un circuito aperto.

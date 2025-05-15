@@ -25,10 +25,17 @@
 
 ### Rifasamento
 >[!note]
->Sia un induttore collegato ad un generatore di tensione, e si aggiunga in parallelo al carico un condensatore di rifasamento in parallelo al carico ($Q_{C}<0$), dal teorema di Boucherot si ha che $Q_{G}+Q_{Z}=0$. Affinché avvenga il rifasamento perfetto è necessario che: $$Q_{C}=Q_{Z}=0$$
->Si ha che: $$\begin{cases}
->Q_{C}= -\frac{VI}{2}= - \frac{\omega CV^{2}}{2}= - \frac{\omega C|\overline{e}|^{2}}{2} \\
->Q_{Z}= \frac{|\overline{e}|^{2}}{2|z|}\sin\varphi_{z}
->\end{cases}$$
->E quindi: $$\frac{|\overline{e}|^{2}}{2|z|}\sin\varphi_{z}- \frac{\omega C|\overline{e}|^{2}}{2}=0\Longrightarrow C= \frac{\sin\varphi_{z}}{\omega|z|}$$
->Si ha che per questo valore di $C$, la potenza reattiva erogata dal generatore è nulla, e quindi abbiamo rifasato perfettamente il carico.
+>Sia un circuito composto da un generatore di tensione $\overline{E}$ connesso ad un carico $z(i\omega)$. Per farlo è necessario mettere in parallelo al carico un condensatore di valore: $$C= \frac{\sin\varphi_{z}}{\omega|z|}$$
+>![[Pasted image 20250508110158.png|center]]
+>
+
+>[!example] Dimostrazione
+>Sia un circuito composto da un generatore di tensione $\overline{E}$ connesso ad un carico $z(i\omega)$. Tipicamente $z(i\omega)$ è induttiva, e avrà quindi $Q_{Z}$ potenza reattiva, mentre il generatore $\overline{E}$ avrà potenza reattiva $Q_{G}$. Per il teorema di Boucherot si ha che: $$Q_{G}+Q_{Z}=0$$
+>Minimizziamo la potenza reattiva del generatore $\overline{E}$. Per farlo poniamo in parallelo tra il carico e il generatore un condensatore di rifasamento di conduttanza $- \frac{i}{\omega C}$.
+>In questo caso il teorema di Boucherot diventa: $$Q_{G}+Q_{Z}+Q_{C}=0$$
+>Voglio imporre $Q_{G}=0$, e quindi $Q_{Z}+Q_{C}=0$. Si ha che: $$Q= \frac{VI}{2}\sin\varphi_{z}$$
+>Nel caso della nostra impedenza: $$Q_{Z}= \frac{|\overline{E}|^{2}}{2|z|}\sin\varphi_{z}$$
+>Mentre per il condensatore: $$Q_{C}= - \frac{\omega C |\overline{E}|^{2}}{2}$$
+>Quindi: $$\frac{|\overline{E}|^{2}}{2|z|}\sin\varphi_{z}- \frac{\omega C|\overline{E}|^{2}}{2}=0$$
+>E di conseguenza, per un rifasamento perfetto e completo si deve avere: $$C= \frac{\sin\varphi_{z}}{\omega |z|}$$
+>In alternativa, per rifasare perfettamente un carico, è sufficiente far si che il carico complessivo sia puramente resistivo: $$C=\frac{L}{R^{2}+\omega^{2}L^{2}}$$

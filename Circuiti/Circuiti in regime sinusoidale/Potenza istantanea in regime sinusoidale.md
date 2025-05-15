@@ -29,7 +29,7 @@
 
 ### Potenza complessa
 >[!note]
->Definiamo come potenza complessa il seguente numero complesso:
+>Definiamo come potenza complessa erogata il seguente numero complesso:
 >$$\hat{A}=P+iQ= \frac{VI}{2}\cos(\varphi_{z})+ i \frac{VI}{2}\sin(\varphi_{z})=\frac{VI}{2}e^{i\varphi_{z}}$$
 >Da questa definizione definiamo la potenza apparente $|\hat{A}|=\sqrt{P^{2}+Q^{2}}$, con $P=|\hat{A}|\cos\varphi_{z}$ e $Q=|\hat{A}|\sin\varphi_{z}$.
 
@@ -48,5 +48,3 @@
 >
 >Definiamo il fattore di potenza come: $$\cos(\varphi)= \frac{P}{|\hat{A}|}$$
 >Se $P$ è in ritardo rispetto ad $|\hat{A}|$, allora l'impedenza è induttiva, viceversa se $P$ è in anticipo rispetto ad $|\hat{A}|$, allora l'impedenza è capacitiva.
-
-### Massimo trasferimento di potenza attiva

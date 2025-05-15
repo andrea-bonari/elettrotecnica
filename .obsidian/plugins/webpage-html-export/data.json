@@ -10,7 +10,7 @@
     "exportPath": "/output",
     "filesToExport": [
       "Circuiti",
-      "Elettrostatica",
+      "Elettromagnetismo",
       "index.md",
       "Introduzione al corso.md"
     ],

@@ -15,7 +15,7 @@
 ### Impedenza e ammettenza
 >[!note]
 >L'impedenza e ammettenza generalizzano al dominio dei fasori i concetti di resistenza e conduttanza. Definiamo l'impedenza come: $$z(i\omega)= \frac{\overline{V}}{\overline{i}}=\underbrace{R}_{\text{Resistenza}}+i\underbrace{X}_{\text{Reattanza}}\qquad [z]=\ohm$$
->Analogamente, definiamo l'ammettenza come: $$y(j\omega)= \frac{\overline{i}}{\overline{V}}=\underbrace{G}_{\text{Conduttanza}}+i\underbrace{B}_{\text{Suscettanza}}\qquad[y]=\text{S}$$
+>Analogamente, definiamo l'ammettenza come: $$y(i\omega)= \frac{\overline{i}}{\overline{V}}=\underbrace{G}_{\text{Conduttanza}}+i\underbrace{B}_{\text{Suscettanza}}\qquad[y]=\text{S}$$
 >Si ha che $z$ e $y$ sono numeri complessi, tuttavia non sono fasori.
 
 >[!tip] Analisi fasoriale di un resistore

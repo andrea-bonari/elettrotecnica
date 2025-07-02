@@ -7,13 +7,13 @@
 >v(t)&= V\cos(\omega t+\varphi_{V})\\
 >i(t)&= I\cos(\omega t+\varphi_{I})
 >\end{align*}$$
->Quindi la potenza assorbita + definita come: $$P_{a}(t)=V(t)i(t)=VI\cos(\omega t +\varphi_{V})\cos(\omega t+ \varphi_{I})$$
+>Quindi la potenza assorbita è definita come: $$P_{a}(t)=V(t)I(t)=VI\cos(\omega t +\varphi_{V})\cos(\omega t+ \varphi_{I})$$
 >Sfruttando la formula trigonometrica $\cos \alpha\cdot \cos \beta= \frac{1}{2}(\alpha -\beta)+ \frac{1}{2}(\alpha+ \beta)$: $$\begin{align*}
 >P_{a}(t)&= \frac{VI}{2}\cos(\varphi_{V}-\varphi_{I})+ \frac{VI}{2}\cos(2 \omega t+ \varphi_{V}+ \varphi_{I} +\varphi_{V} -\varphi_{V})\\
 >&= \frac{VI}{2}\cos(\varphi_{V}-\varphi_{I})+ \frac{VI}{2}\cos(\underbrace{2\omega t+ 2\varphi_{V}}_{\alpha} +\underbrace{\varphi_{I} -\varphi_{V}}_{\beta})\\
 >\end{align*}$$
 >Sfruttando la formula trigonometrica della somma $\cos(\alpha + \beta)=\cos \alpha\cos \beta-\sin \alpha\sin\beta$ e considerando la parità del coseno e la disparità del seno: $$\frac{VI}{2}\cos(\varphi_{V}-\varphi_{I})+ \frac{VI}{2}\cos(\varphi_{V}-\varphi_{I})\cos(2\omega t+2\varphi_{V})+ \frac{VI}{2}\sin(\varphi_{V}-\varphi_{I})\sin(2\omega t+2\varphi_{V})$$
->Siccome: $$\overline{V}=z(i\omega)\overline{i}\space\Longrightarrow\space Ve^{i\varphi_{V}}=ze^{i\varphi_{z}}\cdot Ie^{i\varphi{I }}$$
+>Siccome: $$\overline{V}=z(i\omega)\overline{I}\space\Longrightarrow\space Ve^{i\varphi_{V}}=ze^{i\varphi_{z}}\cdot Ie^{i\varphi{I }}$$
 >E quindi le fasi sono $\varphi_{V}-\varphi_{I}=\varphi_{z}$: $$P_{a}(t)= \underbrace{\frac{VI}{2}\cos\varphi_{z}}_{\text{Potenza media}}+ \underbrace{\underbrace{\frac{VI}{2}\cos(\varphi_{z})}_{P}\cos(2\omega t+2\varphi_{V})}_{\text{Potenza attiva istantanea}}+\underbrace{\underbrace{\frac{VI}{2}\sin(\varphi_{z})}_{Q}\sin(2\omega t+2\varphi_{V})}_{\text{Potenza reattiva istantanea}}$$
 
 >[!tip] Potenza istantanea di un resistore in regime sinusoidale

@@ -7,6 +7,9 @@ $$\begin{align*}
 &\overline{x}_{1}=\overline{x}_{2}\iff x_{1}(t)=x_{2}(t)\\
 &\overline{x}=\alpha \overline{x}_{1}+\beta \overline{x}_{2} \iff x(t)=\alpha x_{1}(t)+\beta x_{2}(t)
 \end{align*}$$
+
+Normalmente nell'ambito di elettrotecnica si denota l'unità immaginaria con il simbolo $j$.
+
 ### Derivabilità dei fasori
 >[!note]
 >Si ha che la derivata di un fasore è proporzionale a se stesso: $$\frac{\text{d}}{\text{d}t} \overline{x}=i\omega \overline{x}$$

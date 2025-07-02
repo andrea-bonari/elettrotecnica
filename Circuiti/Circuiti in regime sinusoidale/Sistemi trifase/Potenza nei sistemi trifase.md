@@ -6,6 +6,7 @@
 >La potenza complessa assorbita per fase è pari a: $$\hat{A}_{p}=P_{p}+iQ_{p}$$
 >E la potenza complessa assorbita dal carico trifase è pari a: $$\hat{A}_{3ph}=3\hat{A}_{p}$$
 
+Nel dominio dei fasori si ha che: $$\hat{A}=3\overline{V}_{f}\overline{I}^{*}$$
 >[!example] Dimostrazione
 >Consideriamo il calcolo delle potenze di un circuito trifase bilanciato e simmetrico. La potenza istantanea assorbita dal carico trifase, supponendolo collegato a $Y$, si scrive nel dominio del tempo a partire dalle tensioni di fase, per le quali assumiamo potenza positiva: $$\begin{align*}
 >V_{AN}(t)&= \sqrt2 V_{p}\cos(\omega t)\\

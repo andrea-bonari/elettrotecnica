@@ -30,9 +30,14 @@
 ### Potenza complessa
 >[!note]
 >Definiamo come potenza complessa erogata il seguente numero complesso:
->$$\hat{A}=P+iQ= \frac{VI}{2}\cos(\varphi_{z})+ i \frac{VI}{2}\sin(\varphi_{z})=\frac{VI}{2}e^{i\varphi_{z}}$$
+>$$\begin{align*}
+>\hat{A}&= P+iQ= \frac{VI}{2}\cos(\varphi_{z})+ i \frac{VI}{2}\sin(\varphi_{z})=\frac{VI}{2}e^{i\varphi_{z}}\\
+>[\hat{A}]&= \text{VA}\qquad [P]=\text{W}\qquad [Q]=\text{VAR}
+>\end{align*}$$
 >Da questa definizione definiamo la potenza apparente $|\hat{A}|=\sqrt{P^{2}+Q^{2}}$, con $P=|\hat{A}|\cos\varphi_{z}$ e $Q=|\hat{A}|\sin\varphi_{z}$.
 
+È possibile ridurre la formula, utilizzando i fasori, a: $$\hat{A}= \frac{\overline{V}\cdot\overline{I}^{*}}{2}$$
+Dove $\overline{I}^{*}$ è il complesso coniugato di $\overline{I}$.
 ### Triangolo delle potenze
 >[!note]
 >Abbiamo che $\overrightarrow{V}=z\overrightarrow{i}$ e quindi che: $$\begin{cases}

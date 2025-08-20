@@ -30,7 +30,7 @@ Utilizziamo tensioni e correnti come variabili descrittive. Per descrivere in ma
 >Risolvere un circuito vuol dire ricavare $2l$ incognite, dove $l$ corrisponde al numero di lati. Per farlo devo scrivere un sistema di $2l$ equazioni lineari composto da $l$ equazioni costitutive e $l$ equazioni topologiche (*KVL* e *KCL*) ($n$ è il numero di nodi): $$\begin{cases}
 l&\text{equazioni costitutive} \\
 n-1&\text{KCL} \\
-l&\text{KVL - I}
+l-n+1&\text{KVL - I}
 \end{cases}\qquad\text{linearmente indipendenti}$$
 
 >[!tip] Matrice di incidenza
